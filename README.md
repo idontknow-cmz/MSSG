@@ -1,7 +1,7 @@
 # MSSG
 
 Multi-source semantic-guided spatial domain identification from gene expression
-and spatial coordinates, without target tissue images.
+and spatial coordinates.
 
 ![MSSG framework](figs/framework.png)
 
